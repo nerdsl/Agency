@@ -1853,6 +1853,10 @@ blockquote {
   .postSingle .postMeta-date {
     float: none;
   }
+    .mobileUI{
+    padding-left: 25px;
+    padding-right: 15px;
+  }
 }
 /*--------------------------------------------------
     19. Client
